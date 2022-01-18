@@ -1,4 +1,4 @@
-
+// headers
 #include "StdAfx.h"
 #include <iostream>
 #include "List.h"
@@ -26,6 +26,8 @@ void List::Insert (DataType e)
 
 
 /* ordinary function - not a member function */
+//swap definition
+
 void Swap (DataType& x, DataType& y)
 {                                
   DataType Temp;
@@ -57,4 +59,4 @@ void List::ShowData ()
     cout << endl;
 	
 }
-
+//end of code
