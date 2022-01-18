@@ -1,5 +1,5 @@
 #pragma once
-
+// header file
 const int MaxSize = 15;
 typedef  int DataType;
 
@@ -22,4 +22,4 @@ void  Insert (DataType);
 void  Delete (DataType); 
 void  ShowData ();
 
-};
+};//end of code

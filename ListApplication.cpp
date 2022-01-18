@@ -1,5 +1,5 @@
 // ListApplication.cpp : Defines the entry point for the console application.
-//
+//main code
 
 #include "stdafx.h"
 #include "list.h"
@@ -27,4 +27,5 @@ L.ShowData ();
 std::cin.get();	
 	return 0;
 }
+//end of main code
 
